@@ -95,7 +95,7 @@ title_label.grid(column=1, row=0)
 
 
 canvas = Canvas(width=200, height=224, bg=YELLOW, highlightthickness=0)
-apple_img = PhotoImage(file="/Users/peddle/Desktop/100DaysPython/Built Programs/pomodoro-start/apple.gif")
+apple_img = PhotoImage(file="image_file.gif")
 canvas.create_image(100, 112, image=apple_img)
 timer_text = canvas.create_text(100, 130, text="00:00", fill="white", font=(FONT_NAME, 35, "bold"))
 canvas.grid(column=1, row=1)
