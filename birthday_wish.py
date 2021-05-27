@@ -1,5 +1,6 @@
 # You will need birthday.cvs. Data shoudl be entered as [ name,email,year,month,day ]
 # Sample letter with [NAME]
+# randint(1,3)}.txt" the (1,3) are the sample emails, you can use as many as you like.
 # On the correct day, an auto email will be sent out
 
 import pandas
