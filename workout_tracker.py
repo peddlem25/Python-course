@@ -2,6 +2,7 @@
 # Sheety sheety.co 
 # Google Sheets google.com
 # Storing Secrets in .env https://docs.replit.com/repls/secret-keys#:~:text=env%20files%20are%20used%20for,see%20the%20contents%20of%20the%20. 
+# View Json Data http://jsonviewer.stack.hu 
 
 import requests
 from datetime import datetime
